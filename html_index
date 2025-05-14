@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>
+             About Chidanand - Passionate Devops engineer
+        </title>
+    </head>
+    <body>
+        <h1>Welcome to my page.</h1>
+        <h2>My skills</h2>
+        <o1>
+             <li>Java</li>
+             <li>Python</li>
+             <li>Git</li>
+             <li>c</li>
+       </o1>
+     </body>
+</html>
